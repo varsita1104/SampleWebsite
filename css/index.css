@@ -1,0 +1,43 @@
+/*-------------------------------------------------------------------*/
+/*Navbar*/
+/*-------------------------------------------------------------------*/
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand img {
+    margin-left: 50px;
+}
+.nav-link {
+    font-family: Libre Baskerville;
+    font-size: 15px;
+    color: white;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-hide {
+    display: none;
+}
+
+.navbar-toggler span {
+    color: white;
+}
+
+.form-inline button{
+    background-color: #0474BE;
+    color: white;
+    text-align: center;
+    padding: 5px 50px;
+    border-radius: 2px;
+    font-size: 15px;
+}
+
+/*-------------------------------------------------------------------*/
+/*Slider*/
+/*-------------------------------------------------------------------*/
+.carousel-caption h1{
+    font-weight: bold;
+}
